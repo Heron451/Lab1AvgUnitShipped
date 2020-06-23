@@ -1,0 +1,10 @@
+C:\Users\Desktop\source\repos\NetDLab1\bin\Debug\NetDLab1.exe.config
+C:\Users\Desktop\source\repos\NetDLab1\bin\Debug\NetDLab1.exe
+C:\Users\Desktop\source\repos\NetDLab1\bin\Debug\NetDLab1.pdb
+C:\Users\Desktop\source\repos\NetDLab1\obj\Debug\NetDLab1.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\NetDLab1\obj\Debug\NetDLab1.frmUnitsShipped.resources
+C:\Users\Desktop\source\repos\NetDLab1\obj\Debug\NetDLab1.Properties.Resources.resources
+C:\Users\Desktop\source\repos\NetDLab1\obj\Debug\NetDLab1.csproj.GenerateResource.cache
+C:\Users\Desktop\source\repos\NetDLab1\obj\Debug\NetDLab1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\NetDLab1\obj\Debug\NetDLab1.exe
+C:\Users\Desktop\source\repos\NetDLab1\obj\Debug\NetDLab1.pdb
